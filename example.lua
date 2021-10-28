@@ -1,5 +1,5 @@
 -- init
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/RunDTM/venyx-ui-lib-modified/main/libmain.lua"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/RunDTM/venyx-ui-lib-modified/main/librarymain.lua"))()
 local venyx = library.new("Venyx", 5013109572)
 
 -- themes
