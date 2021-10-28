@@ -244,6 +244,8 @@ do
 					Size = UDim2.new(0, 126, 1, -38),
 					ZIndex = 3,
 					BackgroundColor3 = themes.DarkContrast,
+                                        ScrollBarThickness = 5,
+                                        CanvasSize = UDim2.new(0,0,3,0)
 				}, {
 					utility:Create("ScrollingFrame", {
 						Name = "Pages_Container",
